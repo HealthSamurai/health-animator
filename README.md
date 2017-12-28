@@ -1,5 +1,6 @@
 # Health Animator
-![](https://clojars.org/health-animator/latest-version.svg)
+
+[![Clojars Project](https://img.shields.io/clojars/v/health-animator.svg)](https://clojars.org/health-animator)
 
 ClojureScript React Native animations
 

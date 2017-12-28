@@ -1,6 +1,7 @@
 # Health Animator
-ClojureScript React Native animations
 ![](https://clojars.org/health-animator/latest-version.svg)
+
+ClojureScript React Native animations
 
 ## Documentation
 ### Fade-in
